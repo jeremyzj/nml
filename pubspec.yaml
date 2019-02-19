@@ -1,8 +1,8 @@
 name: nml
-description: A new Flutter package project.
+description: "A light-weight lib create network model-layer base on http"
 version: 0.0.1
-author:
-homepage:
+author: "citi jack <jackincitibank@gmail.com>"
+homepage: "https://github.com/jeremyzj/nml"
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^0.12.0+1
 
 dev_dependencies:
   flutter_test:
